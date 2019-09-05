@@ -9,7 +9,7 @@ public class H4o2 extends Applet {
     }
 
     public void paint(Graphics g) {
-        
+
         //ik zet de achtergrond roze.
         setBackground(Color.pink);
 
