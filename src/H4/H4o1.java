@@ -1,16 +1,15 @@
-
-
-//Voorbeeld 4.1
+package H4;
 
 import java.awt.*;
 import java.applet.*;
 
-public class H4 extends Applet {
+public class H4o1 extends Applet {
 
     public void init() {
     }
 
     public void paint(Graphics g) {
+        //Dit is een driehoek.
         setBackground(Color.white);
         g.setColor(Color.green);
         g.drawLine(250, 50, 400, 150);
