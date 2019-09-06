@@ -34,7 +34,7 @@ public class H4o4 extends Applet {
         g.drawString("80", 60, 125);
         g.drawString("100", 53, 85);
 
-        //Dit zijn de namen van de lagenda.
+        //Dit zijn de namen in het progama.
         g.drawString("Valerie", 100, 352);
         g.drawString("Valerie", 90, 300);
         g.drawString("Jeroen", 230, 300);
